@@ -723,3 +723,14 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-color: #3399ff
 ;
 }
+
+section#services {
+  background-color: #cce2ff;
+}
+
+section#about {
+  background-color: #cce2ff;
+}
+section#clientimgs {
+  background-color: #cce2ff;
+}
